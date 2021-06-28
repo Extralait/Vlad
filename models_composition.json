@@ -1,0 +1,192 @@
+[
+  {
+    "id": 0,
+    "name": "cube",
+    "position": [-8,1,8],
+    "rotation": null,
+    "scale": null
+  },
+
+  {
+    "id": 1,
+    "name": "cone",
+    "position": [4,7,-4],
+    "rotation": null,
+    "scale": null
+  },
+  {
+    "id": 2,
+    "name": "cylinder",
+    "position": [4,1,-4],
+    "rotation": null,
+    "scale": null
+  },
+  {
+    "id": 3,
+    "name": "sphere",
+    "position": [-8,9,-8],
+    "rotation": [0,1,0],
+    "scale": [2,2,2]
+  },
+  {
+    "id": 4,
+    "name": "torus",
+    "position": [6,0.25,6],
+    "rotation": null,
+    "scale": null
+  },
+  {
+    "id": 5,
+    "name": "torus",
+    "position": [6,0.75,6],
+    "rotation": null,
+    "scale": null
+  },
+  {
+    "id": 6,
+    "name": "floor",
+    "position": [0,0,0],
+    "rotation": null,
+    "scale": null
+  },
+  {
+    "id": 7,
+    "name": "cone",
+    "position": [-4,3,-4],
+    "rotation": null,
+    "scale": null
+  },
+    {
+    "id": 8,
+    "name": "cylinder",
+    "position": [4,3,-4],
+    "rotation": null,
+    "scale": null
+  },
+  {
+    "id": 9,
+    "name": "cylinder",
+    "position": [4,5,-4],
+    "rotation": null,
+    "scale": null
+  },
+    {
+    "id": 10,
+    "name": "cube",
+    "position": [-8,1,6],
+    "rotation": null,
+    "scale": null
+  },
+    {
+    "id": 11,
+    "name": "cube",
+    "position": [-6,1,8],
+    "rotation": null,
+    "scale": null
+  },
+    {
+    "id": 12,
+    "name": "cube",
+    "position": [-4,1,8],
+    "rotation": null,
+    "scale": null
+  },
+    {
+    "id": 13,
+    "name": "cube",
+    "position": [-8,1,4],
+    "rotation": null,
+    "scale": null
+  },
+    {
+    "id": 14,
+    "name": "cube",
+    "position": [-8,3,8],
+    "rotation": null,
+    "scale": null
+  },
+    {
+    "id": 15,
+    "name": "cube",
+    "position": [-8,3,6],
+    "rotation": null,
+    "scale": null
+  },
+    {
+    "id": 16,
+    "name": "cube",
+    "position": [-6,3,8],
+    "rotation": null,
+    "scale": null
+  },
+    {
+    "id": 17,
+    "name": "cube",
+    "position": [-8,5,8],
+    "rotation": null,
+    "scale": null
+  },
+    {
+    "id": 18,
+    "name": "cube",
+    "position": [-6,1,6],
+    "rotation": null,
+    "scale": null
+  },
+  {
+    "id": 19,
+    "name": "torus",
+    "position": [6,0.75,6],
+    "rotation": null,
+    "scale": null
+  },
+  {
+    "id": 20,
+    "name": "torus",
+    "position": [6,1.25,6],
+    "rotation": null,
+    "scale": null
+  },
+  {
+    "id": 21,
+    "name": "torus",
+    "position": [6,1.75,6],
+    "rotation": null,
+    "scale": null
+  },
+  {
+    "id": 22,
+    "name": "torus",
+    "position": [6,2.25,6],
+    "rotation": null,
+    "scale": null
+  },
+  {
+    "id": 23,
+    "name": "torus",
+    "position": [6,2.75,6],
+    "rotation": null,
+    "scale": null
+  },
+  {
+    "id": 24,
+    "name": "torus",
+    "position": [6,3.25,6],
+    "rotation": null,
+    "scale": null
+  },
+  {
+    "id": 25,
+    "name": "torus",
+    "position": [6,3.75,6],
+    "rotation": null,
+    "scale": null
+  },
+    {
+    "id": 26,
+    "name": "sphere",
+    "position": [-4,1,-4],
+    "rotation": null,
+    "scale": null
+  }
+]
